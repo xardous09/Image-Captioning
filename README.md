@@ -1,6 +1,3 @@
-![GitHub User's stars](https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
-
 # Image to Text
 Generate a caption/description for your image, simple and straight forward using [Transformers](https://huggingface.co/docs/transformers/index) library.
 
